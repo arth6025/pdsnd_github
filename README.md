@@ -6,7 +6,7 @@ Replace the Project Title
 
 ### Description
 Describe what your project is about and what it does
-Tell stat about bikeshare usage
+Tells you the stats about bikeshare usage
 
 ### Files used
 Include the files used
