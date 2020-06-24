@@ -13,6 +13,6 @@ Tells you the stats about bikeshare usage across 3 states in US
 Include the files used - Not included
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+It's important to give proper credit. 
 
 Thanks to UDACITY
